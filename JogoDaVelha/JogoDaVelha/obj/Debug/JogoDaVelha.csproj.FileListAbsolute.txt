@@ -1,0 +1,12 @@
+E:\Alison\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+E:\Alison\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+E:\Alison\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+E:\Alison\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.AssemblyReference.cache
+E:\Alison\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.SuggestedBindingRedirects.cache
+E:\Alison\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Form1.resources
+E:\Alison\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Principal.resources
+E:\Alison\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+E:\Alison\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.cache
+E:\Alison\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+E:\Alison\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+E:\Alison\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
